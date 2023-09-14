@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    Colors are places in this order:    -->
+<!--    Alpha which is power of color, I'm not really sure.  -->
+<!--    Red: red.   -->
+<!--    Green: Emerald splash.  -->
+<!--    Blue: Blue eyes white dragon.   -->
+<!--    So its order is: A-RGB. -->
+<!--    https://color.adobe.com/da/create/color-wheel  -->
+
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_gray">#FF222222</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="t_pink">#FFBC6997</color>
+    <color name="t_pink2">#FF7DAA</color>
+    <color name="t_blue">#57B3BD</color>
+
+</resources>

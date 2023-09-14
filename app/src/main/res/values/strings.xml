@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CTL_app</string>
+
+    <string name="hyperlink"><a href="https://www.google.com/">link</a> to google</string>
+</resources>
